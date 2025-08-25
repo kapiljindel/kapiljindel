@@ -1,30 +1,40 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Flutter Developer | 💻 Tech Enthusiast | 🎯 Lifelong Learner</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farturssmirnovs.github.io%2Fgithub-profile-readme-generator%2Fimages%2Fbanner.png&f=1&nofb=1&ipt=8e1a6f912080c51209b7346fa17833cf4e3c2ad19b214283d1b13abd6a4116a3" alt="Banner" width="100%" />
 </p>
 
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working on **Flutter Projects & Mobile Apps**
-- 🌱 I’m learning **State Management, Firebase, and Backend Integration**
-- 👯 I’m open to collaborate on **Flutter & Dart-based projects**
-- ⚡ Fun fact: I can debug for hours with coffee and lofi beats ☕🎧
+<h1 align="center">👋 Hello World!</h1>
+<h3 align="center">Welcome to My GitHub Profile</h3>
 
 ---
 
-### 💼 Tech Stack
+## 😎 I'M [YOUR NAME]!
+
+**Digital Craftsman (Flutter Developer / Programmer)**  
+I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting beautiful, responsive, and scalable cross-platform apps.
+
+---
+
+### 🚀 About Me
+
+- 🎓 **Student of life** and software
+- 🔭 Currently working on exciting **Flutter mobile apps**
+- 📚 Always learning new things in **Dart**, **Firebase**, **UI/UX**, and **API integration**
+- ✍️ I blog about mobile development and tips [on DEV](https://dev.to)
+- 💬 Ask me about anything Flutter-related
+- 🌱 Open Source Contributor & Tech Blogger
+- 📫 Reach me at: `your.email@example.com`
+
+---
+
+### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
 ---
@@ -32,33 +42,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
+### 🔗 Connect with Me
 
-| Project | Description |
-|--------|-------------|
-| [📱 MyCoolApp](https://github.com/YOUR_USERNAME/MyCoolApp) | A Flutter mobile app that does amazing things |
-| [🔥 FirebaseChat](https://github.com/YOUR_USERNAME/FirebaseChat) | Realtime chat app using Firebase and Flutter |
-| [🎨 UIKit](https://github.com/YOUR_USERNAME/UIKit) | A collection of beautiful Flutter UI templates |
+- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- 💌 Email: your.email@example.com
 
 ---
 
-### 📫 Connect with Me
-
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="right">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="120" />
 </p>
 
----
-
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
