@@ -7,7 +7,7 @@
 
 ---
 
-## 😎 I'M [YOUR NAME]!
+## 😎 I'M Kapil!
 
 **Digital Craftsman (Flutter Developer / Programmer)**  
 I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting beautiful, responsive, and scalable cross-platform apps.
@@ -41,10 +41,12 @@ I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="200"/>
+</div>
+
 
 ---
 
