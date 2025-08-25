@@ -49,6 +49,11 @@ I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting 
 
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="200"/>
+</div>
 
 ### 🔗 Connect with Me
 
