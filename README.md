@@ -36,7 +36,7 @@ I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapiljindel&layout=compact&theme=tokyonight"  align="right" height="250" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapiljindel&layout=compact&theme=tokyonight"  align="right" height="80" width="80"/>
 </p>
 
 ---
