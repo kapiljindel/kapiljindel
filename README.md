@@ -36,7 +36,6 @@ I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapiljindel&layout=compact&theme=tokyonight"  align="right" height="80" width="80"/>
 </p>
 
 ---
@@ -45,9 +44,11 @@ I’m a Flutter Developer and Mobile App Enthusiast with a passion for crafting 
 
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=kapiljindel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img width="38%"  src="https://github-readme-streak-stats.herokuapp.com?user=kapiljindel&theme=tokyonight" alt="GitHub Streak" height="240"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </div>
+
 
 
 ---
